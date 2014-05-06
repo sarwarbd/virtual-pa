@@ -29,3 +29,4 @@ virtual-pa
   - get travel plan to meet the booking on time
   - set holidays
   - set promotional period
+  - maintain profile with album (image, video)
