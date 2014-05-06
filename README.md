@@ -12,6 +12,8 @@ virtual-pa
   - check booking status
   - check provider profile and history
   - check current/previous queue size
+  - get reminder on bookings
+  - get travel plan to meet the booking on time
 
 - provider will 
   - confirm and cancel bookings
@@ -23,3 +25,5 @@ virtual-pa
   - check client profile and history
   - check current/previous queue size
   - confirm payment status
+  - get reminder notification on bookings
+  - get travel plan to meet the booking on time
