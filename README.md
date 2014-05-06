@@ -14,6 +14,7 @@ virtual-pa
   - check current/previous queue size
   - get reminder on bookings
   - get travel plan to meet the booking on time
+  - post feedback on social media, provider profile
 
 - provider will 
   - confirm and cancel bookings
