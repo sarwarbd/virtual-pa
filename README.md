@@ -27,3 +27,5 @@ virtual-pa
   - confirm payment status
   - get reminder notification on bookings
   - get travel plan to meet the booking on time
+  - set holidays
+  - set promotional period
